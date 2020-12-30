@@ -6,6 +6,6 @@ Build a file-based key-value data store that supports the basic CRD(create, read
 
 Please check screenshot attached in README.md File.(CRD Operations and Errors as mentioned in problem statement)
 
-![Image of the idea](https://github.com/Sharmil001/New-Repository/blob/master/Accessing.png)
+![Image of the idea](https://github.com/Sharmil001/new-repo/blob/main/Accessing.png)
 
 
